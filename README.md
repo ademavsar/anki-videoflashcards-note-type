@@ -1,5 +1,11 @@
 # anki-videoflashcards-note-type
 
+# İçindekiler
+
+- [Front Template](#front-template)
+- [Back Template](#back-template)
+- [Styling](#styling)
+
 ## Front Template
 
 ```js
